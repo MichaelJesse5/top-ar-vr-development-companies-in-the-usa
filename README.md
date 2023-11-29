@@ -14,7 +14,7 @@ Here are eight of the top AR VR development companies in the USA, with a focus o
 7. FFFACE.ME
 8. Saritasa
 
-1.[Travancore Analytics](https://www.travancoreanalytics.com/))
+1.[Travancore Analytics](https://www.travancoreanalytics.com/)
 Travancore Analytics is another notable AR VR development company with a focus on delivering innovative and engaging AR VR solutions. They have a proven track record of success in developing AR VR applications for a wide range of industries, including healthcare, education, manufacturing, and retail. Travancore Analytics is known for their deep understanding of AR VR technologies and their ability to create custom applications that are both user-friendly and effective.
 
 2.[ Groove Jones ](https://www.groovejones.com/)
