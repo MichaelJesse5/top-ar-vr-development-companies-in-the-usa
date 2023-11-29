@@ -25,19 +25,19 @@ Groove Jones is a leading AR VR development company with a focus on creating imm
 
 CXR is another top AR VR development company with a focus on enterprise solutions. They have developed a number of AR and VR applications for businesses, including training simulations, product demos, and sales tools.
 
-4. [Shockoe](https://shockoe.com/)
+4.[Shockoe](https://shockoe.com/)
 
 Shockoe is a full-service AR VR development company that offers a wide range of AR development services, including concept development, design, development, and deployment. They have a proven track record of delivering high-quality AR solutions for a wide range of clients.
 
-5. [Lucid Reality](https://lucidrealitylabs.com/)
+5.[Lucid Reality](https://lucidrealitylabs.com/)
 
 Lucid Reality Labs is a leading provider of AR solutions for the healthcare industry. They have developed a number of AR applications for medical training, patient education, and therapy.
 
-6. [Platform XR](https://www.platformxr.tech/)
+6.[Platform XR](https://www.platformxr.tech/)
 
 PlatformXR is a cloud-based AR VR development platform that makes it easy for businesses to create and deploy AR applications without any coding experience.
 
-7. [FFACE.ME](FFACE.ME)
+7.[FFACE.ME](FFACE.ME)
 
 FFFACE.ME is a leading provider of AR solutions for the beauty industry. They have developed a number of AR applications that allow users to virtually try on makeup, hairstyles, and clothing.
 
