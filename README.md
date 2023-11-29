@@ -34,7 +34,7 @@ Shockoe is a full-service AR VR development company that offers a wide range of 
 
 Lucid Reality Labs is a leading provider of AR solutions for the healthcare industry. They have developed a number of AR applications for medical training, patient education, and therapy.
 
-6. [Platform XR]([url](https://www.platformxr.tech/))
+6. [Platform XR](https://www.platformxr.tech/)
 
 PlatformXR is a cloud-based AR VR development platform that makes it easy for businesses to create and deploy AR applications without any coding experience.
 
@@ -42,7 +42,7 @@ PlatformXR is a cloud-based AR VR development platform that makes it easy for bu
 
 FFFACE.ME is a leading provider of AR solutions for the beauty industry. They have developed a number of AR applications that allow users to virtually try on makeup, hairstyles, and clothing.
 
-8.[ Saritasa]([url](https://www.saritasa.com/))
+8.[ Saritasa]((https://www.saritasa.com/))
 
 Saritasa is a global technology company with a strong focus on AR development services. They have a team of over 1,000 AR developers who have delivered AR solutions for a wide range of clients.
 
